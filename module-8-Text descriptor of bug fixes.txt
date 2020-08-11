@@ -1,0 +1,23 @@
+
+1. Heading Tags added to "Boo the Dog Fan Page! at line 19.
+
+2. Paragraph tags around Text in "About Boo" lines 41 - 45.
+
+3. Brackets added around the img tag of Boo - line 56.
+
+4. Put "About Boo" and img columns in the same row, deleted extra row - line 36.
+
+5. Added list tags to Boo's favourite things - lines 80-84.
+
+6. Javascript file- putting quotation marks around the array facts.
+
+7. Javascript file - putting quotation marks around the colour css color pink
+
+8. Javascript file - put quotations around click for shrink grow buttons 
+
+9. Changed buttons to the right color.
+
+10. Respaced and aligned all divs
+
+
+

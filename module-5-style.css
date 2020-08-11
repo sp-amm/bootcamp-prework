@@ -1,0 +1,14 @@
+body {background-color: rgb(207, 214, 223);}
+h1 {text-align-last: center; background-color: darkblue; color: lightblue;}
+#p1 {color: red;}
+#p2 {color: blue;}
+#p3 {color: green;}
+#p4 {font-size: xx-large;}
+#p5 {font-size: xx-small;}
+#p6 {text-align: center;}
+#p7 {font-weight: bolder;}
+#p8 {font-family: fantasy;}
+#p9 {font-size: xx-large; font-style: unset; font-weight: 900; color: darkorange;}
+.styledFont {font-family: Arial, Helvetica, sans-serif; font: outline; font-stretch: wider; color: darkblue;}
+img {border-style: solid; border-width: 10px; border-color: crimson;}
+#styledImage {border-style: double; padding: 6px; border-width: 2px; border-color: crimson;}
